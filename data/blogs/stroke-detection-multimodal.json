@@ -7,5 +7,6 @@
   "slug": "multimodal-stroke-detection",
   "excerpt": "Designing stroke detection systems using complementary sensory modalities.",
   "readTime": "13 min read",
-  "content": "## Context\nStroke symptoms manifest across visual and auditory signals.\n\n## Problem Statement\nSingle-modality systems miss critical cues.\n\n## Design Principles\n- Modular fusion\n- Signal-level evaluation\n\n## System Overview\nAudio and vision pipelines are fused at representation level.\n\n## Evaluation\nEach modality is evaluated independently.\n\n## Limitations\nTemporal synchronization remains complex.\n\n## Conclusion\nMultimodal pipelines align with clinical reality."
+  "content": "## Context\nStroke symptoms manifest across multiple modalities, including speech, facial movement, and visual cues.\n\nIgnoring any of these signals risks incomplete assessment.\n\n## Problem Statement\nUnimodal systems miss critical cues and produce brittle predictions.\n\n## Design Principles\n- Modular signal processing\n- Representation-level fusion\n\n## System Overview\nAudio and vision pipelines are processed independently before fusion.\n\n## Evaluation\nEach modality is evaluated separately to understand its contribution.\n\n## Limitations\nTemporal synchronization remains complex and error-prone.\n\n## Conclusion\nStroke detection systems must reflect the multimodal nature of clinical symptoms."
 }
+
