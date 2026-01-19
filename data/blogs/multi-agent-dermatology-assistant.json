@@ -1,0 +1,11 @@
+{
+  "title": "A Multi-Agent Approach to Dermatology Assistance",
+  "author": "Radiant Group",
+  "categories": ["Multi-Agent Systems", "Medical AI"],
+  "post_date": "2026-01-19",
+  "update_date": "2026-01-19",
+  "slug": "multi-agent-dermatology-assistant",
+  "excerpt": "How Radiant combined vision, retrieval, and reasoning agents for dermatological support.",
+  "readTime": "17 min read",
+  "content": "## Context\nDermatology requires perception, knowledge, and communication.\n\n## Problem Statement\nSingle-model systems conflate responsibilities and obscure failures.\n\n## Design Principles\n- Agent specialization\n- Explicit handoffs\n- Evidence grounding\n\n## System Overview\nDetection, retrieval, and synthesis are handled by separate agents.\n\n## Technical Choices\nMedical knowledge is retrieved explicitly rather than embedded implicitly.\n\n## Evaluation\nEach agent is evaluated independently.\n\n## Limitations\nThe system does not replace clinical diagnosis.\n\n## Lessons Learned\nAgent boundaries improve safety.\n\n## Conclusion\nMulti-agent systems align better with medical reasoning."
+}

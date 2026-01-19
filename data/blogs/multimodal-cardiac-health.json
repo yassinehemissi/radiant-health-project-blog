@@ -1,0 +1,11 @@
+{
+  "title": "Multimodal Learning for Cardiac Health Assessment",
+  "author": "Radiant Group",
+  "categories": ["Multimodal AI", "Healthcare"],
+  "post_date": "2026-01-19",
+  "update_date": "2026-01-19",
+  "slug": "multimodal-cardiac-health-assessment",
+  "excerpt": "Combining medical images and structured signals to assess cardiac health.",
+  "readTime": "14 min read",
+  "content": "## Context\nCardiac assessment relies on multiple complementary signals.\n\n## Problem Statement\nUnimodal models fail to capture clinical complexity.\n\n## Design Principles\n- Representation fusion\n- Interpretability-first\n\n## System Overview\nVisual and numerical features are fused at representation level.\n\n## Evaluation\nExplainability and confidence calibration are mandatory.\n\n## Limitations\nData alignment remains challenging.\n\n## Lessons Learned\nMultimodality improves robustness.\n\n## Conclusion\nClinical intelligence is inherently multimodal."
+}

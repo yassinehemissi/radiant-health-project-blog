@@ -1,0 +1,11 @@
+{
+  "title": "Radiant Philosophy: From Research to Deployable Systems",
+  "author": "Radiant Group",
+  "categories": ["Radiant", "Engineering Culture"],
+  "post_date": "2026-01-19",
+  "update_date": "2026-01-19",
+  "slug": "radiant-philosophy-research-to-systems",
+  "excerpt": "Why Radiant focuses on deployable, grounded, and evaluable AI systems.",
+  "readTime": "11 min read",
+  "content": "## Context\nResearch prototypes rarely survive deployment.\n\n## Philosophy\nCorrectness without usability is failure.\n\n## Principles\n- Systems over models\n- Evaluation over intuition\n- Transparency over opacity\n\n## Practice\nEvery Radiant project is designed for deployment from day one.\n\n## Lessons Learned\nEngineering discipline enables trustworthy AI.\n\n## Conclusion\nRadiant exists where research meets reality."
+}

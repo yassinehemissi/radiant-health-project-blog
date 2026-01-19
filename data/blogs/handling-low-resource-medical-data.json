@@ -1,0 +1,11 @@
+{
+  "title": "Handling Low-Resource and Imbalanced Medical Data",
+  "author": "Radiant Group",
+  "categories": ["Machine Learning", "Data Engineering"],
+  "post_date": "2026-01-19",
+  "update_date": "2026-01-19",
+  "slug": "handling-low-resource-medical-data",
+  "excerpt": "Lessons learned from training medical AI systems under severe data constraints.",
+  "readTime": "14 min read",
+  "content": "## Context\nMedical data scarcity is the norm, not the exception.\n\n## Problem Statement\nSmall, biased datasets make standard training paradigms unreliable.\n\n## Why More Data Is Not the Answer\nSynthetic volume without semantic consistency degrades performance.\n\n## Design Principles\n- Error analysis first\n- Feature-level augmentation\n- Class-aware evaluation\n\n## Technical Approach\nWe analyze failure modes before applying augmentation strategies.\n\n## Evaluation\nPerformance is measured per-class, not globally.\n\n## Limitations\nGeneralization remains bounded by data diversity.\n\n## Lessons Learned\nRobustness beats leaderboard metrics.\n\n## Conclusion\nLow-resource ML requires different success criteria."
+}

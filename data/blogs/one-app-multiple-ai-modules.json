@@ -1,0 +1,11 @@
+{
+  "title": "One Application, Multiple AI Modules",
+  "author": "Radiant Group",
+  "categories": ["System Design", "AI Architecture"],
+  "post_date": "2026-01-19",
+  "update_date": "2026-01-19",
+  "slug": "one-app-multiple-ai-modules",
+  "excerpt": "Why Radiant chose a modular architecture instead of a single all-in-one intelligence system.",
+  "readTime": "13 min read",
+  "content": "## Context\nAI applications often aim for centralized intelligence. In healthcare, this approach creates fragile systems.\n\n## Problem Statement\nHealthcare problems are heterogeneous. Imaging, speech, tabular data, and knowledge retrieval have fundamentally different constraints.\n\n## Why Monoliths Fail\nMonolithic models are hard to debug, unsafe to update, and difficult to evaluate in isolation.\n\n## Design Principles\n- Single responsibility per module\n- Explicit interfaces\n- Independent evaluation\n\n## System Overview\nThe application acts as an orchestrator. Each AI module performs one task and returns structured outputs.\n\n## Technical Choices\nWe separate perception, reasoning, and retrieval rather than fusing them prematurely.\n\n## Evaluation\nModules are evaluated independently using task-specific metrics.\n\n## Limitations\nOrchestration adds complexity and requires careful interface design.\n\n## Deployment\nModules can be deployed progressively without disrupting the entire system.\n\n## Lessons Learned\nPlatforms scale better than products.\n\n## Conclusion\nModular intelligence is not optional for real-world AI systems."
+}

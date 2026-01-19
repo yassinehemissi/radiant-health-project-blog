@@ -1,0 +1,11 @@
+{
+  "title": "Multimodal Pipelines for Stroke Detection",
+  "author": "Radiant Group",
+  "categories": ["Healthcare AI", "Signal Processing"],
+  "post_date": "2026-01-19",
+  "update_date": "2026-01-19",
+  "slug": "multimodal-stroke-detection",
+  "excerpt": "Designing stroke detection systems using complementary sensory modalities.",
+  "readTime": "13 min read",
+  "content": "## Context\nStroke symptoms manifest across visual and auditory signals.\n\n## Problem Statement\nSingle-modality systems miss critical cues.\n\n## Design Principles\n- Modular fusion\n- Signal-level evaluation\n\n## System Overview\nAudio and vision pipelines are fused at representation level.\n\n## Evaluation\nEach modality is evaluated independently.\n\n## Limitations\nTemporal synchronization remains complex.\n\n## Conclusion\nMultimodal pipelines align with clinical reality."
+}

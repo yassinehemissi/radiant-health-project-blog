@@ -1,0 +1,11 @@
+{
+  "title": "Tunisian Sign Language Recognition Under Real Constraints",
+  "author": "Radiant Group",
+  "categories": ["Computer Vision", "Accessibility", "Healthcare AI"],
+  "post_date": "2026-01-19",
+  "update_date": "2026-01-19",
+  "slug": "tunisian-sign-language-recognition",
+  "excerpt": "Designing a lightweight pipeline for Tunisian Sign Language recognition in healthcare contexts.",
+  "readTime": "15 min read",
+  "content": "## Context\nCommunication barriers remain a major obstacle in healthcare access.\n\n## Problem Statement\nTunSL datasets are small, imbalanced, and noisy. Models must run on constrained hardware.\n\n## Why Standard Vision Models Fail\nEnd-to-end video models are computationally expensive and brittle in uncontrolled environments.\n\n## Design Principles\n- Skeletal representations\n- Temporal abstraction\n- Efficiency-first design\n\n## System Overview\nThe pipeline extracts keypoints, encodes temporal motion, and classifies isolated gestures.\n\n## Technical Choices\nKeypoint-based representations reduce noise and improve generalization.\n\n## Data & Evaluation\nClass imbalance is addressed via feature-space augmentation rather than naive oversampling.\n\n## Limitations\nThe system currently focuses on isolated signs, not continuous signing.\n\n## Deployment\nDesigned for low-latency inference on consumer devices.\n\n## Lessons Learned\nAccessibility requires efficiency, not scale.\n\n## Conclusion\nTunSL recognition must be engineered, not merely trained."
+}
